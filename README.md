@@ -14,7 +14,7 @@ This is a spaceship game coded in assembly, I call it "Red Stream". It was used 
 
 In the game you are the fighter jet which is named "Red Stream" and your goal is to survive an endless onslaught of asteroids. As the game progresses you encounter pickups such as the life and bonus points. The game increases in difficulty as it continues by increasing the speed of the asteroids and reducing spawning of the pickups. Good luck survivng! 😎😎
 
-Features Inmplemented
+Features Implemented
 - Increasing Diffuculty
 - Health and bonus points pickup
 - Score system
