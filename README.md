@@ -1,10 +1,21 @@
 # RedStream
 
 ## Note to all Students: 
-This project was used for the final assignment in CSCB58 at the University of Toronto. **I have shared the GitHub link to the code with the instructors**. If you happen to come accross this code, do **NOT** use this for your own project. You are free to look at the code (I cannot stop you), and learn from it but do not copy-paste any of the code here. As a piece of advice from another student, plagirism is not the answer no matter how much you are struggling, the instructors will find out through their own plagarism checks. 
+This project was used for the final assignment in CSCB58 at the University of Toronto. **I have shared the GitHub link to the code with the instructors**. If you happen to come accross this code, do **NOT** use this for your own project. You are free to look at the code (I cannot stop you), and learn from it but do not copy-paste any of the code here. As a piece of advice from one student to another, plagirism is not the answer no matter how much you are struggling, the instructors will find out through their own plagarism checks. 
 
 ## Necessary Software
 This project uses the MARS Assembly software available at http://courses.missouristate.edu/KenVollmar/mars/.
+
+The tools needed are the bitmap display and the keyboard and display MMIO simulator. Both can be accessed by going to Tools and clicking on them like so:
+
+![image](https://user-images.githubusercontent.com/53048085/130121156-44e4a9fe-56dd-4431-a6e7-953288e2e829.png)
+
+For the bitmap display you will need the following configurations:
+- Unit width in pixels: 4
+- Unit height in pixels: 4
+- Display width in pixels: 512
+- Display height in pixels: 256
+- Base address for display: 0x10008000 ($gp)
 
 ## Demo
 A video demoing this project can be seen at https://youtu.be/Q6O_1jH5Khk.
