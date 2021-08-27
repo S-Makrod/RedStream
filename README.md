@@ -1,7 +1,7 @@
 # RedStream
 
 ## Note to all Students: 
-This project was used for the final assignment in CSCB58 at the University of Toronto. **I have shared the GitHub link to the code with the instructors**. If you happen to come accross this code, do **NOT** use this for your own project. You are free to look at the code (I cannot stop you), and learn from it but do not copy-paste any of the code here. As a piece of advice from one student to another, plagiarism is not the answer no matter how much you are struggling, the instructors will find out through their own plagiarism checks. 
+This project was used for the final assignment in CSCB58 at the University of Toronto. **I have shared the GitHub link to the code with the instructors**. If you happen to come across this code, do **NOT** use this for your own project. You are free to look at the code (I cannot stop you), and learn from it but do not copy-paste any of the code here. As a piece of advice from one student to another, plagiarism is not the answer no matter how much you are struggling, the instructors will find out through their own plagiarism checks. 
 
 ## Necessary Software
 This project uses the MARS Assembly software available at http://courses.missouristate.edu/KenVollmar/mars/.
